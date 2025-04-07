@@ -13,4 +13,4 @@ Go on, I've been waiting for this so long
 Fate is calling me, unlock another door  
 And shine the hope inside my heart
 
-![幸运青_弹唱](LuckyCyan.png)
+![幸运青_弹唱](LuckyCyan.webp)
