@@ -20,5 +20,7 @@
 
 [虾仁炒蛋](./recipes/鸡蛋炒虾仁.md)
 
+[回锅肉](./recipes/回锅肉.md)
+
 [水果茶调配公式](./recipes/drinkers/水果茶公式.md)
 
