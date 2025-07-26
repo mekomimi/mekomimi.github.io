@@ -24,3 +24,7 @@
 
 [水果茶调配公式](./recipes/drinkers/水果茶公式.md)
 
+[柠檬巴巴路亚](./recipes/柠檬巴巴路亚.md)
+
+[西瓜玉米粥](./recipes/西瓜玉米粥.md)
+
